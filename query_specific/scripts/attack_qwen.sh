@@ -1,0 +1,1 @@
+python3 inference.py  --model_name="Qwen/Qwen-VL-Chat"
