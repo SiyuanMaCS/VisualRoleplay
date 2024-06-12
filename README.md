@@ -105,12 +105,5 @@ This dataset contains offensive content that may be disturbing, This benchmark i
 
 ## 📖 BibTeX:
 ```python
-# @misc{ma2024visualroleplay,
-#       title={Visual-RolePlay: Universal Jailbreak Attack on MultiModal Large Language Models via Role-playing Image Character}, 
-#       author={Siyuan Ma and Weidi Luo and Yu Wang and Xiaogeng Liu and Muhao Chen and Bo Li and Chaowei Xiao},
-#       year={2024},
-#       eprint={2405.20773},
-#       archivePrefix={arXiv},
-#       primaryClass={cs.CR}
-# }
+
 ```
